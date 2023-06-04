@@ -19,7 +19,7 @@ Category.hasMany(Product, {
 Product.belongsToMany(Tag, {
   through: {
     model: ProductTag,
-    unique: FontFaceSetLoadEvent,
+    unique: false,
   },
   foreignKey: "product_id",
 });
