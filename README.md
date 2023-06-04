@@ -46,12 +46,9 @@ An E-Commerce Site that interfaces with a retail company's SQL database.
 
 ## Contributing
 
-This project was built in collaboration with ,
-whose GitHub profile can be found [here]().
-
 Third party assets used in this project include:
 
-Tutorials used in this project include:
+[Insomnia](https://insomnia.rest/)
 
 ## License
 
@@ -71,3 +68,9 @@ Please direct questions to the owner of this repository at ckc2007@gmail.com
 
 Owner GitHub page:
 [ckc2007](https://github.com/ckc2007).
+
+## Credits
+
+This README was created using the README generator app by ckc2007!
+visit the GitHub page to try it out:
+[README Generator app by ckc2007](https://github.com/ckc2007/README-Generator)
