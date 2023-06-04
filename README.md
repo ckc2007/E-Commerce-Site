@@ -40,9 +40,9 @@ An E-Commerce Site that interfaces with a retail company's SQL database.
 
 [Video Demo: Insomnia Route Testing](https://drive.google.com/file/d/1waaoQxt0aBtQoZknFlLC47nvQXKs_i8W/view)
 
-[Seeding Database](./assets/images/command-line.png)
+![Seeding Database](./assets/images/command%20line.png)
 
-[Insomnia Testing](./assets/images/insomnia.png)
+![Insomnia Testing](./assets/images/insomnia.png)
 
 ## Contributing
 
